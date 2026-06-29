@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DispatchHub.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28fc81f8435e58665356e47824b453d5830a2421")]
 [assembly: System.Reflection.AssemblyProductAttribute("DispatchHub.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DispatchHub.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
